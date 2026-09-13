@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
+
+# 输出产物
+*.pptx
+*.png
+!docs/**/*.png
+out/
+output/
